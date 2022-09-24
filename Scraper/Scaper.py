@@ -1,5 +1,3 @@
-import re
-from turtle import title
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
